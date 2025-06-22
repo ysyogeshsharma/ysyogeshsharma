@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://camo.githubusercontent.com/b0a4d30f8d5be5c42d7bc2c6a3bad82dc5ad1a537ab60d7463d3b9e05541d986/68747470733a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966" alt="Yogesh Sharma Banner" />
+</p>
 # Hi, I'm Yogesh Sharma 👋
 
 🚀 Associate Software Engineer at ENS Enterprises  
